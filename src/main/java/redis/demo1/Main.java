@@ -1,4 +1,4 @@
-package redis;
+package redis.demo1;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package redis;
+package redis.demo2;
 
 import org.apache.commons.lang3.StringUtils;
 

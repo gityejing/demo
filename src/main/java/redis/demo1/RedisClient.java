@@ -1,4 +1,4 @@
-package redis;
+package redis.demo1;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package redis;
+package redis.demo2;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

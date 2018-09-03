@@ -1,4 +1,4 @@
-package redis;
+package redis.demo2;
 
 public class MSGSendUtils {
 
