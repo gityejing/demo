@@ -35,6 +35,8 @@ public class Dom4jControler {
 		} else {
 			System.out.println("ÐÞ¸ÄXML³É¹¦");
 		}
+		
+		
 	}
 
 	public Document read(String fileName) throws MalformedURLException,
